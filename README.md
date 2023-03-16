@@ -1,6 +1,7 @@
 - 👋 Username: @georemo
 - 👀 Specific areas of interests:
   - angular
+  - ionic
   - module federaton
   - node.js in typescript
   - sql systems (mysql as pilot)
