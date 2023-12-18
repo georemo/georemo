@@ -6,7 +6,9 @@
   - node.js in typescript
   - sql systems (mysql as pilot)
   - containerization (docker and lxd/lxc)
-  - virtualized networking
+  - c,c++
+  - socket programming
+  - virtualized networking, SDN, ovn, svn
   - kubernetes (microk8s)
   Development Automation:
     - automation of codes
